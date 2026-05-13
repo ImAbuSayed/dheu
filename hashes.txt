@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dheu
+
+This log tracks the cryptographic history and versioning for the song **Dheu** (dheu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T08:16:17.926703 | `v1` | `fb6e09c9cc561a29dd62b3e127019a21aff9fcc58e55c7bc31b5e20e12cec222` | `63fee2bf63ad8c5edd2726b65c24be965953d14922ec16fc14a4f2914163ebde` | `2026-05-13_dheu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dheu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dheu/) |
+| **Get License** | [Official Music Licensing for Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dheu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fb6e09c9cc561a29dd62b3e127019a21aff9fcc58e55c7bc31b5e20e12cec222` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
