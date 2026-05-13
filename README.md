@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dheu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dheu/) |
+| **Get License** | [Secure Licensing Rights for Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dheu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 95cb64e3d2e52db989b6d8c3dc0462a14f24383c
+> হারিয়ে যাওয়ার এই তো সময়, হাতটা ধরে নাও,
+> অচিন দেশে মনের স্রোতে ভাসলো আমার নাও।
+> শুকনো বুকে জোয়ার এলো, তুমি কাছে আসো,
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
